@@ -1,18 +1,14 @@
-## Getting Started
+## About this project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Olá está é uma aplicação criada por Vladson Carlos para um exercício de Fila em JAVA.
 
-## Folder Structure
+## Functionalities
 
-The workspace contains two folders by default, where:
+Este projeto tem a funcionalidade de criar e simular uma fila de banco, ele irá realizar o método de estruturação de dados da fila. Ou seja, ela irá sempre adicionar uma pessoa nova no final da fila e retirar a pessoa do começo dela.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Try yourself
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Se quiser testar você mesmo, basta clonar o repositório e acrescentar no App.java mais pessoas na fila e utilizar o remover para tirar alguém dela.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Thanks for your time! 
